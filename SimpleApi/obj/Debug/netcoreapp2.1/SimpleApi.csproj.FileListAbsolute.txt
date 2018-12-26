@@ -1,0 +1,14 @@
+C:\Users\jmiller\source\repos\TestApi\TestApi\bin\Debug\netcoreapp2.1\SimpleApi.deps.json
+C:\Users\jmiller\source\repos\TestApi\TestApi\bin\Debug\netcoreapp2.1\SimpleApi.runtimeconfig.json
+C:\Users\jmiller\source\repos\TestApi\TestApi\bin\Debug\netcoreapp2.1\SimpleApi.runtimeconfig.dev.json
+C:\Users\jmiller\source\repos\TestApi\TestApi\bin\Debug\netcoreapp2.1\SimpleApi.dll
+C:\Users\jmiller\source\repos\TestApi\TestApi\bin\Debug\netcoreapp2.1\SimpleApi.pdb
+C:\Users\jmiller\source\repos\TestApi\TestApi\obj\Debug\netcoreapp2.1\SimpleApi.csprojAssemblyReference.cache
+C:\Users\jmiller\source\repos\TestApi\TestApi\obj\Debug\netcoreapp2.1\SimpleApi.csproj.CoreCompileInputs.cache
+C:\Users\jmiller\source\repos\TestApi\TestApi\obj\Debug\netcoreapp2.1\SimpleApi.RazorAssemblyInfo.cache
+C:\Users\jmiller\source\repos\TestApi\TestApi\obj\Debug\netcoreapp2.1\SimpleApi.RazorAssemblyInfo.cs
+C:\Users\jmiller\source\repos\TestApi\TestApi\obj\Debug\netcoreapp2.1\SimpleApi.AssemblyInfoInputs.cache
+C:\Users\jmiller\source\repos\TestApi\TestApi\obj\Debug\netcoreapp2.1\SimpleApi.AssemblyInfo.cs
+C:\Users\jmiller\source\repos\TestApi\TestApi\obj\Debug\netcoreapp2.1\SimpleApi.RazorTargetAssemblyInfo.cache
+C:\Users\jmiller\source\repos\TestApi\TestApi\obj\Debug\netcoreapp2.1\SimpleApi.dll
+C:\Users\jmiller\source\repos\TestApi\TestApi\obj\Debug\netcoreapp2.1\SimpleApi.pdb
